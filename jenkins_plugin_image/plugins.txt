@@ -4,7 +4,6 @@ branch-api
 cloudbees-folder
 credentials
 cvs
-docker
 durable-task
 external-monitor-job
 git-client
@@ -31,7 +30,6 @@ ssh-slaves
 subversion
 translation
 variant
-windows-slaves
 workflow-aggregator
 workflow-api
 workflow-basic-steps
@@ -49,3 +47,15 @@ pipeline-stage-step
 blueocean
 blueocean-autofavorite
 gitlab-plugin
+docker-plugin
+pipeline-stage-view
+sonar
+config-file-provider
+maven-plugin
+pipeline-maven
+kubernetes
+kubernetes-cli
+kubernetes-credentials
+kubernetes-client-api
+docker-plugin
+docker-workflow
