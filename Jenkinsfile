@@ -2,7 +2,17 @@ pipeline {
     agent any
     
     tools {
-        maven 'maven3'
+        maven 'maven3'cvbdcvb
+        sddf
+
+        sddfsd
+        for (sddfsdf
+        
+        xz
+        zsdv
+        zsdc in collection) {
+            
+        }
         jdk 'jdk17'
     }
 
